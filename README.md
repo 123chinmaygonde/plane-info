@@ -28,7 +28,7 @@ npm install
  npm start
 
 # Deployment On Vercel
-https://vercel.com/chinmay-vilas-gondes-projects/plane-info
+https://plane-info-lime.vercel.app/
 
 
 
